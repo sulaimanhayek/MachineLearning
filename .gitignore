@@ -1,3 +1,8 @@
 .DS_Store
 *.csv
 *.xlsx
+Land_cover_percent_data.csv
+*.tif
+*.json
+*.geojson
+.
