@@ -5,4 +5,5 @@ Land_cover_percent_data.csv
 *.tif
 *.json
 *.geojson
-.
+*.zip
+*.shp
